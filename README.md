@@ -13,7 +13,7 @@ This is a team lab for 3 to 4 people. You will run a real team workflow on a uni
 | Diego G. | diegotogamero |
 | Iván G.| Ivanchu634 |
 | Ekain M. | NotEKM |
-| Nicolas D. | 213REX |
+| Nicolás D. | 213REX |
 
 ## Lab rules
 
